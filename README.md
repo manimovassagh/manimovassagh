@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mani Movassagh - but you can call me Mani for simplicity 😊
+My name is Mani Movassagh and I am in love with Coding 😊
 - :octocat: I'm a fulltime Software Developer base in Germany
 - :octocat: I'm Java and JavaScript Developer
 - :octocat: I use React, Vue, Spring Boot,TypeScript in my projects
