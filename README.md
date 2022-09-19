@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mani and in love with Coding 😊
+My name is Mani and I am in love with Coding 😊
 - :octocat: I'm a Fulltime Software Developer in Germany
 - :octocat: I'm a Java and JavaScript Developer
 - :octocat: I use React, Vue, Spring Boot,TypeScript in my projects
