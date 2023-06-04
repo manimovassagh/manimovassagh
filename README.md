@@ -2,7 +2,7 @@
 
 I am a full-time software developer based in Germany, and I am passionate about coding. 😊
 
-- 💻 I'm proficient in Java, Go, and JavaScript development and testing.
+- 💻 I have considerable expertise in Java, JavaScript (TypeScript), Playwright, and Cypress testing.
 - ☁️ I am a certified AWS Cloud practitioner.
 - 🧪 I am also a certified ISTQB tester.
 - 🔨 I enjoy using Java Spring Boot, Go, React, Vue.js, and TypeScript in my projects.
