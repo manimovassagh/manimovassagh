@@ -7,7 +7,7 @@ I am a full-time software developer based in Germany, and I am passionate about 
 - 🧪 I am also a certified ISTQB tester.
 - 🔨 I enjoy using Java Spring Boot, Go, React, Vue.js, and TypeScript in my projects.
 - 🌍 I am an avid supporter of Git, Github, and the open-source community.
-- 📚 Currently, I am expanding my skillset by Ethical Hacking and penetration test to stay up-to-date with the latest industry developments.
+- 📚 Currently, I am expanding my skillset by Ethical Hacking 🧑🏻‍💻🧑🏻‍💻 and penetration test.
 
 
 
