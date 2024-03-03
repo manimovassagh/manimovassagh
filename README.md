@@ -8,7 +8,7 @@ I am a full-time software developer based in Germany, and I am passionate about 
 - 🔨 I enjoy using Java Spring Boot, Go, React, Vue.js, and TypeScript in my projects.
 - 🌍 I am an avid supporter of Git, Github, and the open-source community.
 - 📚 Currently, I am expanding my skillset by Ethical Hacking 🧑🏻‍💻🧑🏻‍💻 and penetration test.
-- <img src="https://tryhackme-badges.s3.amazonaws.com/mani.mgh.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/mani.mgh.png" alt="TryHackMe">
 
 
 
