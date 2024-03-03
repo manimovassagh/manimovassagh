@@ -9,7 +9,7 @@ I am a full-time software developer based in Germany, and I am passionate about 
 - 🌍 I am an avid supporter of Git, Github, and the open-source community.
 - 📚 Currently, I am expanding my skillset by Ethical Hacking 🧑🏻‍💻🧑🏻‍💻 and penetration test.
  <img src="https://tryhackme-badges.s3.amazonaws.com/mani.mgh.png" alt="TryHackMe">
-
+ <script src="https://tryhackme.com/badge/2556904"></script>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manimovassagh)](https://github.com/ryo-ma/github-profile-trophy)
