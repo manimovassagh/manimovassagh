@@ -10,4 +10,4 @@ I am a full-time software developer based in Germany, and I am passionate about 
 - 📚 Currently, I am expanding my skillset in Ethical Hacking 🧑🏻‍💻 and penetration test.
  <img src="https://tryhackme-badges.s3.amazonaws.com/mani.mgh.png" alt="TryHackMe">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manimovassagh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manimovassagh&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
