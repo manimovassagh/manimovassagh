@@ -1,6 +1,6 @@
 ### Hi there, I'm Mani! 👋
 
-I am a full-time software developer based in Germany, and I am passionate about coding. 😊
+I am a full-time Tester, Ethical Hacker and software developer based in Germany, and I am passionate about coding. 😊
 
 - 💻 I have considerable expertise in Java, JavaScript (TypeScript) development, as well as Playwright and Cypress testing.
 - ☁️ I am a certified AWS Cloud.
