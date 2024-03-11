@@ -2,7 +2,7 @@
 
 I am a full-time Tester, Ethical Hacker and software developer based in Germany, and I am passionate about coding. 😊
 
-- 💻 I have considerable expertise in Java, JavaScript (TypeScript) development, as well as Playwright and Cypress testing.
+- 💻 I have considerable expertise in Java, JavaScript (TypeScript), Python development, as well as Playwright and Cypress testing.
 - ☁️ I am a certified AWS Cloud.
 - 🧪 I am also a certified ISTQB tester.
 - 🔨 I enjoy using Java Spring Boot, Go, React, Vue.js, and TypeScript in my projects.
