@@ -7,4 +7,4 @@ I am a dedicated full-time Tester, Ethical Hacker, and Software Developer based 
 - 🔨 Leveraging Java Spring Boot, Go, React, Vue.js, and TypeScript, I craft robust solutions for various projects.
 - 📚 Currently, I am actively expanding my proficiency in Ethical Hacking and penetration testing. 🧑🏻‍💻"
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=manimovassagh&theme=onedark)](https://github.com/manimovassagh/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manimovassagh&theme=nord)](https://github.com/manimovassagh/github-profile-trophy)
